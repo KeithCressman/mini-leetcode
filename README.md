@@ -2,7 +2,7 @@
 ## By Keith Cressman
 
 
-I made this project as part of a Christmas gift for my older brother. I hid my gift to him - in order to find the location, he had to correctly solve this programming puzzle on the mini-leetcode site. 
+I made this project as part of a Christmas gift for my older brother. I hid my gift to him - in order to find the location, he had to correctly solve a programming puzzle on this mini-leetcode site. 
 
 * To run the web server (made with next.js), simply run 
   * npm run dev
